@@ -51,5 +51,8 @@ Formatos par ser usados na programação
 Quando se instancia um objeto data hora e precisa lidar com ele, você não mexer diretamente
 no objeto instanciado, e sim, vai criar um outro objeto alterado
 
-
+### Conversões  simples
+- SimpleDateFormat - Define formatos para conversao entre dates e strings
+- Instante.parse - converte no iso 
+- 
 
