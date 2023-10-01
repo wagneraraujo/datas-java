@@ -47,3 +47,9 @@ Formatos par ser usados na programação
 - Duration
 - ZoneId
 
+### Operações importantes
+Quando se instancia um objeto data hora e precisa lidar com ele, você não mexer diretamente
+no objeto instanciado, e sim, vai criar um outro objeto alterado
+
+
+
