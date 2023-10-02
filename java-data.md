@@ -54,5 +54,10 @@ no objeto instanciado, e sim, vai criar um outro objeto alterado
 ### Conversões  simples
 - SimpleDateFormat - Define formatos para conversao entre dates e strings
 - Instante.parse - converte no iso 
-- 
 
+## Git dicas simples
+- git status
+- git reset - tirar tudo do stage
+- git clean -df
+- git checkout -- . voltar para o último commit
+- git log --online
